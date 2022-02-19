@@ -1,0 +1,1 @@
+Started project a few days ago but did not push every version to Git. Will make sure to get into the habit of doing that from now on. Finished on February 19th, 2022. Excited to feel like I'm understanding CSS more than I did a year ago after I took a break from TOP. 
